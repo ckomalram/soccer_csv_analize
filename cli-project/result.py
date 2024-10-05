@@ -77,8 +77,8 @@ if __name__ == "__main__":
     #file_path_list = ['bundesliga-2018-UTC.csv','bundesliga-2019-UTC.csv', 'bundesliga-2020-UTC.csv', 'bundesliga-2021-UTC.csv',  'bundesliga-2022-UTC.csv', 'bundesliga-2023-UTC.csv','bundesliga-2024-UTC.csv']
     #file_path_list = ['la-liga-2018-UTC.csv','la-liga-2019-UTC.csv', 'la-liga-2020-UTC.csv', 'la-liga-2021-UTC.csv',  'la-liga-2022-UTC.csv', 'la-liga-2023-UTC.csv','la-liga-2024-UTC.csv']
     #file_path_list = ['europa-league-2019-UTC.csv', 'europa-league-2020-UTC.csv', 'europa-league-2021-UTC.csv',  'europa-league-2022-UTC.csv', 'europa-league-2023-UTC.csv','europa-league-2024-UTC.csv']
-    #file_path_list = ['serie-a-2017-UTC.csv','serie-a-2018-UTC.csv','serie-a-2019-UTC.csv', 'serie-a-2020-UTC.csv', 'serie-a-2021-UTC.csv',  'serie-a-2022-UTC.csv', 'serie-a-2023-UTC.csv','serie-a-2024-UTC.csv']
-    file_path_list = ['ligue-1-2018-UTC.csv','ligue-1-2019-UTC.csv', 'ligue-1-2020-UTC.csv', 'ligue-1-2021-UTC.csv',  'ligue-1-2022-UTC.csv', 'ligue-1-2023-UTC.csv','ligue-1-2024-UTC.csv']
+    file_path_list = ['serie-a-2017-UTC.csv','serie-a-2018-UTC.csv','serie-a-2019-UTC.csv', 'serie-a-2020-UTC.csv', 'serie-a-2021-UTC.csv',  'serie-a-2022-UTC.csv', 'serie-a-2023-UTC.csv','serie-a-2024-UTC.csv']
+    #file_path_list = ['ligue-1-2018-UTC.csv','ligue-1-2019-UTC.csv', 'ligue-1-2020-UTC.csv', 'ligue-1-2021-UTC.csv',  'ligue-1-2022-UTC.csv', 'ligue-1-2023-UTC.csv','ligue-1-2024-UTC.csv']
     #file_path_list = ['epl-2016-UTC.csv','epl-2017-UTC.csv','epl-2018-UTC.csv','epl-2019-UTC.csv', 'epl-2020-UTC.csv', 'epl-2021-UTC.csv',  'epl-2022-UTC.csv', 'epl-2023-UTC.csv','epl-2024-UTC.csv']
 
     # Procesar cada archivo
